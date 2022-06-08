@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Guzmán</h1>
 <h3 align="center">A passionate Software Developer from México</h3>
 
-- 🌱 I’m currently learning **Node.Js, React, Angular, MongoDB.**
+- 🌱 I’m currently learning **Node.Js, Typescript, AWS, GO.**
 
 - 💬 Ask me about **Node.Js**
 
